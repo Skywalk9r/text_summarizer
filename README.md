@@ -5,6 +5,7 @@ This project is a web application for automatic text summarization, developed as
 - **Text Summarization**: Generates extractive and abstractive summaries of input text.
 - **API Integration**: Uses an LLM API to process text and generate summaries.
 - **Deployment-Ready**: Can be hosted on local servers.
+- **Integration** Integration with file uploads (PDF).
 ## Tech Stack
 - **Frontend**: HTML, CSS
 - **Backend**: Python (Flask)
@@ -16,4 +17,4 @@ This project is a web application for automatic text summarization, developed as
 - Support for multiple languages.
 - Advanced customization for summary settings.
 - Enhanced UI/UX design.
-- Integration with file uploads (PDF, DOCX).
+- Support for multiple file formats (TXT, DOCX, EPUB, HTML).
