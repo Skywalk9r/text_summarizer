@@ -7,6 +7,6 @@ Text Summarization: Generates extractive and abstractive summaries of input text
 API Integration: Uses an LLM API to process text and generate summaries.
 Deployment-Ready: Can be hosted on cloud platforms or local servers.
 Tech Stack
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS
 Backend: Python (Flask)
 LLM Integration: Hugging Face Transformers (LLaMA 2-7B)
